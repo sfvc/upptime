@@ -11,27 +11,27 @@ sites:
     url: http://civitas.catamarcaciudad.gob.ar:8080/GRH_CATA/forms/login.jsp
   - name: Turnero
     url: https://turnos.catamarcacapital.gob.ar/
- - name: Turnero CEL
+  - name: Turnero CEL
     url: https://turnos.catamarcacapital.gob.ar/cel/
- - name: Tu bienestar
+  - name: Tu bienestar
     url: https://tubienestar.catamarcacapital.gob.ar/solicitudes
- - name: Planos
+  - name: Planos
     url: https://correcciondeplanos.catamarcaciudad.gob.ar/
- - name: Compras
+  - name: Compras
     url: https://compras.catamarcaciudad.gob.ar/
- - name: Empleo
+  - name: Empleo
     url: https://beneficiarios.catamarcaciudad.gob.ar/
- - name: Recibos
+  - name: Recibos
     url: https://recibos.catamarcaciudad.gob.ar/acceso.php
- - name: Trámites online Juzgado
+  - name: Trámites online Juzgado
     url: http://juzgado.catamarcacapital.gob.ar/
- - name: Nodo
+  - name: Nodo
     url: https://nodotecnologico.catamarcacapital.edu.ar/
- - name: GIRO
+  - name: GIRO
     url: https://giro.catamarcacapital.gob.ar/
- - name: Tu Decision
+  - name: Tu Decision
     url: https://tudecision.catamarcacapital.gob.ar
- - name: Catastro
+  - name: Catastro
     url: https://catastro.catamarcaciudad.gob.ar/sfvccatastro/myLogin.php
 
 status-website:
