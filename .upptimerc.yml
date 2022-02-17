@@ -31,6 +31,8 @@ sites:
     url: https://giro.catamarcacapital.gob.ar/
  - name: Tu Decision
     url: https://tudecision.catamarcacapital.gob.ar
+ - name: Catastro
+    url: https://catastro.catamarcaciudad.gob.ar/sfvccatastro/myLogin.php
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
