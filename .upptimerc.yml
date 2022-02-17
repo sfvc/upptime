@@ -33,16 +33,29 @@ sites:
     url: https://tudecision.catamarcacapital.gob.ar
   - name: Catastro
     url: https://catastro.catamarcaciudad.gob.ar/sfvccatastro/myLogin.php
+  - name: Transporte
+    url: https://transporte.catamarcacapital.gob.ar/login
+  - name: Economía Social
+    url: economiasocial.catamarcacapital.gob.ar
+  - name: PEI
+    url: planestrategico.catamarcacapital.gob.ar
+  - name: Inspecciones
+    url: inspecciones.catamarcaciudad.gob.ar
+  - name: Educación
+    url: educacion.catamarcaciudad.gob.ar
+  - name: Rentas
+    url: rentas.catamarcaciudad.gob.ar
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: /https://cc.gob.ar/assets/logo.svg
+  logoUrl: https://cc.gob.ar/assets/logo.svg
   name: Status
   introTitle: "Estado de las páginas de Catamrca Capital"
-  introMessage: Esta muestra el estado de las páginas de la municpalidad de San Fernanod del Valle de Catamarca
+  introMessage: Esta muestra el estado de las páginas y sistemas de la municpalidad de San Fernanod del Valle de Catamarca
   navbar:
     - title: Status
       href: /
