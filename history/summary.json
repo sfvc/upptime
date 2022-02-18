@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-18": 122,
+      "2022-02-18": 631,
       "2022-02-17": 456
     }
   },
@@ -205,18 +205,20 @@
     "url": "https://nodotecnologico.catamarcacapital.edu.ar/",
     "icon": "https://favicons.githubusercontent.com/nodotecnologico.catamarcacapital.edu.ar",
     "slug": "nodo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 637,
     "timeDay": 637,
     "timeWeek": 637,
     "timeMonth": 637,
     "timeYear": 637,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-18": 0
+    }
   },
   {
     "name": "GIRO",
@@ -278,11 +280,11 @@
     "icon": "https://favicons.githubusercontent.com/transporte.catamarcacapital.gob.ar",
     "slug": "transporte",
     "status": "up",
-    "uptime": "93.82%",
-    "uptimeDay": "93.82%",
-    "uptimeWeek": "93.82%",
-    "uptimeMonth": "93.82%",
-    "uptimeYear": "93.82%",
+    "uptime": "97.14%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "97.14%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "97.14%",
     "time": 248,
     "timeDay": 248,
     "timeWeek": 248,
