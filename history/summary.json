@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-19": 450,
+      "2022-02-19": 455,
       "2022-02-18": 1440,
       "2022-02-17": 456
     }
@@ -206,19 +206,19 @@
     "url": "https://nodotecnologico.catamarcacapital.edu.ar/",
     "icon": "https://favicons.githubusercontent.com/nodotecnologico.catamarcacapital.edu.ar",
     "slug": "nodo",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 669,
-    "timeDay": 712,
-    "timeWeek": 669,
-    "timeMonth": 669,
-    "timeYear": 669,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 656,
+    "timeDay": 675,
+    "timeWeek": 656,
+    "timeMonth": 656,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2022-02-19": 0
+      "2022-02-19": 6
     }
   },
   {
@@ -281,11 +281,11 @@
     "icon": "https://favicons.githubusercontent.com/transporte.catamarcacapital.gob.ar",
     "slug": "transporte",
     "status": "up",
-    "uptime": "98.77%",
+    "uptime": "98.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "98.77%",
-    "uptimeYear": "98.77%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
     "time": 236,
     "timeDay": 191,
     "timeWeek": 236,
