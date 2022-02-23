@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 29,
+      "2022-02-23": 35,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
@@ -210,9 +210,9 @@
     "url": "https://nodotecnologico.catamarcacapital.edu.ar/",
     "icon": "https://favicons.githubusercontent.com/nodotecnologico.catamarcacapital.edu.ar",
     "slug": "nodo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
@@ -222,6 +222,7 @@
     "timeMonth": 937,
     "timeYear": 937,
     "dailyMinutesDown": {
+      "2022-02-23": 0,
       "2022-02-21": 16
     }
   },
