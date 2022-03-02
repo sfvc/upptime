@@ -150,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-02": 1139,
+      "2022-03-02": 1151,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
@@ -256,19 +256,17 @@
     "icon": "https://favicons.githubusercontent.com/giro.catamarcacapital.gob.ar",
     "slug": "giro",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 347,
     "timeDay": 325,
     "timeWeek": 353,
     "timeMonth": 347,
     "timeYear": 347,
-    "dailyMinutesDown": {
-      "2022-03-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tu Decision",
@@ -276,19 +274,17 @@
     "icon": "https://favicons.githubusercontent.com/tudecision.catamarcacapital.gob.ar",
     "slug": "tu-decision",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 295,
     "timeDay": 273,
     "timeWeek": 315,
     "timeMonth": 295,
     "timeYear": 295,
-    "dailyMinutesDown": {
-      "2022-03-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Catastro",
@@ -334,19 +330,19 @@
     "url": "economiasocial.catamarcacapital.gob.ar",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "economia-social",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 190,
-    "timeWeek": 433,
-    "timeMonth": 422,
-    "timeYear": 422,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 406,
+    "timeDay": 169,
+    "timeWeek": 401,
+    "timeMonth": 406,
+    "timeYear": 406,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 12
     }
   },
   {
@@ -355,19 +351,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pei",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 387,
     "timeDay": 352,
     "timeWeek": 357,
     "timeMonth": 387,
     "timeYear": 387,
-    "dailyMinutesDown": {
-      "2022-03-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Inspecciones",
@@ -375,11 +369,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "inspecciones",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 329,
     "timeDay": 163,
     "timeWeek": 332,
