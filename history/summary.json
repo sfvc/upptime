@@ -150,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-09": 811,
+      "2022-03-09": 819,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
@@ -264,18 +264,20 @@
     "url": "https://giro.catamarcacapital.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/giro.catamarcacapital.gob.ar",
     "slug": "giro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 392,
-    "timeWeek": 415,
-    "timeMonth": 362,
-    "timeYear": 362,
-    "dailyMinutesDown": {}
+    "time": 1484,
+    "timeDay": 14403,
+    "timeWeek": 3526,
+    "timeMonth": 1484,
+    "timeYear": 1484,
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   },
   {
     "name": "Tu Decision",
@@ -357,19 +359,19 @@
     "url": "planestrategico.catamarcacapital.gob.ar",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pei",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1581,
-    "timeDay": 14857,
-    "timeWeek": 3573,
-    "timeMonth": 1581,
-    "timeYear": 1581,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1534,
+    "timeDay": 10035,
+    "timeWeek": 3255,
+    "timeMonth": 1534,
+    "timeYear": 1534,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 8
     }
   },
   {
