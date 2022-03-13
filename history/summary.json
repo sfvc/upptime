@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.catamarcaciudad.gob.ar",
     "slug": "catamarca-capital",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4962,
     "timeDay": 3048,
     "timeWeek": 4976,
     "timeMonth": 4962,
     "timeYear": 4962,
-    "dailyMinutesDown": {
-      "2022-03-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Civitas Juzgado",
@@ -152,7 +150,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-13": 838,
+      "2022-03-13": 874,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
@@ -244,9 +242,9 @@
     "url": "https://nodotecnologico.catamarcacapital.edu.ar/",
     "icon": "https://favicons.githubusercontent.com/nodotecnologico.catamarcacapital.edu.ar",
     "slug": "nodo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "98.89%",
+    "uptimeDay": "98.88%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.18%",
