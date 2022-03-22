@@ -82,19 +82,19 @@
     "url": "https://turnos.catamarcacapital.gob.ar/cel/",
     "icon": "https://favicons.githubusercontent.com/turnos.catamarcacapital.gob.ar",
     "slug": "turnero-cel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 66,
-    "timeWeek": 67,
-    "timeMonth": 66,
-    "timeYear": 72,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 75,
+    "timeDay": 111,
+    "timeWeek": 82,
+    "timeMonth": 70,
+    "timeYear": 75,
     "dailyMinutesDown": {
-      "2022-03-22": 0
+      "2022-03-22": 12
     }
   },
   {
@@ -154,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-22": 645,
+      "2022-03-22": 656,
       "2022-03-21": 1440,
       "2022-03-20": 1440,
       "2022-03-19": 1440,
