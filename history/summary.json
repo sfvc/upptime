@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/civitas.catamarcaciudad.gob.ar",
     "slug": "civitas-juzgado",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.65%",
     "time": 576,
     "timeDay": 434,
     "timeWeek": 518,
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-24": 30,
+      "2022-03-24": 330,
       "2022-03-23": 1440,
       "2022-03-22": 1440,
       "2022-03-21": 1440,
@@ -264,7 +264,7 @@
     "time": 753,
     "timeDay": 562,
     "timeWeek": 676,
-    "timeMonth": 705,
+    "timeMonth": 702,
     "timeYear": 753,
     "dailyMinutesDown": {
       "2022-03-22": 72,
@@ -445,9 +445,9 @@
     "url": "rentas.catamarcaciudad.gob.ar",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rentas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -456,6 +456,8 @@
     "timeWeek": 1679,
     "timeMonth": 1676,
     "timeYear": 1667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-24": 0
+    }
   }
 ]
