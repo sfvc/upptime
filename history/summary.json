@@ -33,7 +33,7 @@
     "time": 551,
     "timeDay": 558,
     "timeWeek": 560,
-    "timeMonth": 524,
+    "timeMonth": 527,
     "timeYear": 551,
     "dailyMinutesDown": {
       "2022-04-22": 89,
@@ -85,7 +85,7 @@
     "time": 320,
     "timeDay": 419,
     "timeWeek": 307,
-    "timeMonth": 336,
+    "timeMonth": 339,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2022-04-10": 1287,
@@ -106,7 +106,7 @@
     "time": 73,
     "timeDay": 56,
     "timeWeek": 56,
-    "timeMonth": 71,
+    "timeMonth": 72,
     "timeYear": 73,
     "dailyMinutesDown": {
       "2022-04-10": 1287,
@@ -127,7 +127,7 @@
     "time": 402,
     "timeDay": 549,
     "timeWeek": 464,
-    "timeMonth": 406,
+    "timeMonth": 403,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2022-04-10": 1287,
@@ -149,7 +149,7 @@
     "time": 222,
     "timeDay": 291,
     "timeWeek": 291,
-    "timeMonth": 227,
+    "timeMonth": 223,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2022-02-26": 58
@@ -172,7 +172,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-04": 1388,
+      "2022-05-05": 33,
+      "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
@@ -265,7 +266,7 @@
     "time": 266,
     "timeDay": 283,
     "timeWeek": 275,
-    "timeMonth": 262,
+    "timeMonth": 263,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2022-02-26": 57
@@ -285,7 +286,7 @@
     "time": 207,
     "timeDay": 201,
     "timeWeek": 237,
-    "timeMonth": 211,
+    "timeMonth": 208,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2022-02-26": 57
@@ -305,7 +306,7 @@
     "time": 195,
     "timeDay": 264,
     "timeWeek": 229,
-    "timeMonth": 201,
+    "timeMonth": 202,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2022-04-10": 1287,
@@ -319,18 +320,17 @@
     "icon": "https://favicons.githubusercontent.com/nodotecnologico.catamarcacapital.edu.ar",
     "slug": "nodo",
     "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.30%",
     "time": 750,
     "timeDay": 634,
     "timeWeek": 773,
-    "timeMonth": 731,
+    "timeMonth": 734,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2022-05-04": 12,
       "2022-05-01": 19,
       "2022-04-26": 21,
       "2022-04-17": 18,
@@ -372,7 +372,7 @@
     "time": 954,
     "timeDay": 436,
     "timeWeek": 398,
-    "timeMonth": 385,
+    "timeMonth": 387,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2022-05-02": 20,
@@ -396,7 +396,7 @@
     "time": 375,
     "timeDay": 427,
     "timeWeek": 340,
-    "timeMonth": 486,
+    "timeMonth": 492,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2022-04-14": 35,
@@ -418,7 +418,7 @@
     "time": 601,
     "timeDay": 538,
     "timeWeek": 601,
-    "timeMonth": 586,
+    "timeMonth": 588,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2022-03-24": 145
@@ -461,7 +461,7 @@
     "time": 571,
     "timeDay": 395,
     "timeWeek": 1118,
-    "timeMonth": 709,
+    "timeMonth": 714,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2022-05-02": 20,
@@ -486,7 +486,7 @@
     "time": 792,
     "timeDay": 421,
     "timeWeek": 514,
-    "timeMonth": 598,
+    "timeMonth": 605,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2022-05-02": 20,
@@ -531,7 +531,7 @@
     "time": 282,
     "timeDay": 265,
     "timeWeek": 293,
-    "timeMonth": 257,
+    "timeMonth": 258,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2022-03-03": 23,
@@ -552,7 +552,7 @@
     "time": 1875,
     "timeDay": 1619,
     "timeWeek": 1707,
-    "timeMonth": 2181,
+    "timeMonth": 2194,
     "timeYear": 1875,
     "dailyMinutesDown": {
       "2022-04-22": 38,
