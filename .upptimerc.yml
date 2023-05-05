@@ -36,15 +36,17 @@ sites:
   - name: Transporte
     url: https://transporte.catamarcacapital.gob.ar/login
   - name: Economía Social
-    url: economiasocial.catamarcacapital.gob.ar
+    url: https://economiasocial.catamarcacapital.gob.ar
   - name: PEI
-    url: planestrategico.catamarcacapital.gob.ar
+    url: https://planestrategico.catamarcacapital.gob.ar
   - name: Inspecciones
-    url: inspecciones.catamarcaciudad.gob.ar
+    url: https://inspecciones.catamarcaciudad.gob.ar
   - name: Educación
-    url: educacion.catamarcaciudad.gob.ar
-  - name: Rentas
-    url: rentas.catamarcaciudad.gob.ar
+    url: https://educacion.catamarcaciudad.gob.ar
+  - name: Habilitaciones comerciales
+    url: https://solicitudes-hc.cc.gob.ar
+  - name: Back habilitaciones comerciales
+    url: https://solicitudes-hc.cc.gob.ar/admin
     
 
 status-website:
