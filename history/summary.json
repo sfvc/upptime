@@ -213,7 +213,7 @@
     "timeMonth": 492,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2023-05-09": 887,
+      "2023-05-09": 893,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
@@ -338,7 +338,7 @@
     "timeMonth": 232,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-05-09": 887,
+      "2023-05-09": 893,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
@@ -465,7 +465,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-09": 887,
+      "2023-05-09": 893,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
@@ -849,7 +849,7 @@
     "timeMonth": 332,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2023-05-09": 887,
+      "2023-05-09": 893,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
@@ -977,7 +977,7 @@
     "timeMonth": 225,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2023-05-09": 887,
+      "2023-05-09": 893,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
@@ -1268,7 +1268,7 @@
     "timeMonth": 275,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2023-05-09": 888,
+      "2023-05-09": 894,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
@@ -1774,19 +1774,19 @@
     "url": "https://solicitudes-hc.cc.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/solicitudes-hc.cc.gob.ar.ico",
     "slug": "habilitaciones-comerciales",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 2923,
-    "timeDay": 2529,
-    "timeWeek": 2923,
-    "timeMonth": 2923,
-    "timeYear": 2923,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 3105,
+    "timeDay": 2935,
+    "timeWeek": 3105,
+    "timeMonth": 3105,
+    "timeYear": 3105,
     "dailyMinutesDown": {
-      "2023-05-09": 17
+      "2023-05-09": 22
     }
   },
   {
