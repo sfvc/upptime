@@ -1,7 +1,7 @@
 url: https://solicitudes-hc.cc.gob.ar/admin
-status: up
-code: 200
-responseTime: 157
-lastUpdated: 2023-06-06T23:06:25.436Z
+status: down
+code: 502
+responseTime: 84
+lastUpdated: 2023-06-07T13:34:23.692Z
 startTime: Fri May 05 2023 13:30:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
