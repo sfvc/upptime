@@ -1,7 +1,7 @@
 url: https://turnos.catamarcacapital.gob.ar/
-status: up
-code: 200
-responseTime: 153
-lastUpdated: 2023-08-15T23:05:22.874Z
+status: down
+code: 500
+responseTime: 340
+lastUpdated: 2023-08-16T06:38:40.384Z
 startTime: Thu Feb 17 2022 16:23:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
