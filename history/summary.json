@@ -7,16 +7,17 @@
     "status": "down",
     "uptime": "98.83%",
     "uptimeDay": "14.38%",
-    "uptimeWeek": "43.48%",
-    "uptimeMonth": "86.64%",
-    "uptimeYear": "98.28%",
+    "uptimeWeek": "42.70%",
+    "uptimeMonth": "86.46%",
+    "uptimeYear": "98.27%",
     "time": 3204,
     "timeDay": 3339,
     "timeWeek": 3115,
     "timeMonth": 3165,
     "timeYear": 3220,
     "dailyMinutesDown": {
-      "2023-12-20": 1187,
+      "2023-12-21": 31,
+      "2023-12-20": 1234,
       "2023-12-19": 1330,
       "2023-12-18": 1359,
       "2023-12-17": 1403,
@@ -430,7 +431,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/correcciondeplanos.catamarcaciudad.gob.ar.ico",
     "slug": "planos",
     "status": "up",
-    "uptime": "70.72%",
+    "uptime": "70.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -658,7 +659,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-20": 1394,
+      "2023-12-21": 32,
+      "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -1021,8 +1023,7 @@
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
-      "2022-12-22": 1440,
-      "2022-12-21": 1440
+      "2022-12-22": 1440
     }
   },
   {
@@ -1248,7 +1249,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/recibos.catamarcaciudad.gob.ar.ico",
     "slug": "recibos",
     "status": "up",
-    "uptime": "70.72%",
+    "uptime": "70.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1606,7 +1607,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.58%",
+    "uptimeYear": "36.60%",
     "time": 278,
     "timeDay": 250,
     "timeWeek": 260,
@@ -1843,8 +1844,7 @@
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
-      "2022-12-22": 1440,
-      "2022-12-21": 1440
+      "2022-12-22": 1440
     }
   },
   {
