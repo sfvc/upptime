@@ -4,13 +4,13 @@
     "url": "https://www.catamarcaciudad.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.catamarcaciudad.gob.ar.ico",
     "slug": "catamarca-capital",
-    "status": "up",
-    "uptime": "96.60%",
-    "uptimeDay": "1.28%",
-    "uptimeWeek": "1.10%",
-    "uptimeMonth": "22.54%",
-    "uptimeYear": "93.54%",
-    "time": 3189,
+    "status": "down",
+    "uptime": "96.61%",
+    "uptimeDay": "2.42%",
+    "uptimeWeek": "1.26%",
+    "uptimeMonth": "22.63%",
+    "uptimeYear": "93.55%",
+    "time": 3190,
     "timeDay": 2672,
     "timeWeek": 2988,
     "timeMonth": 3108,
@@ -40,7 +40,7 @@
       "2023-12-22": 1269,
       "2023-12-21": 1329,
       "2023-12-20": 1234,
-      "2023-12-19": 1076
+      "2023-12-19": 1038
     }
   },
   {
@@ -665,7 +665,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-12": 789,
+      "2024-01-12": 805,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -1038,7 +1038,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/beneficiarios.catamarcaciudad.gob.ar.ico",
     "slug": "empleo",
     "status": "up",
-    "uptime": "71.67%",
+    "uptime": "71.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
