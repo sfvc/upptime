@@ -1,7 +1,7 @@
 url: https://catastro.catamarcaciudad.gob.ar/sfvccatastro/myLogin.php
-status: down
-code: 502
-responseTime: 25676
-lastUpdated: 2024-01-13T11:12:39.667Z
+status: up
+code: 200
+responseTime: 15689
+lastUpdated: 2024-01-13T12:26:22.538Z
 startTime: 2022-02-17T16:23:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
