@@ -6,8 +6,8 @@
     "slug": "catamarca-capital",
     "status": "up",
     "uptime": "96.27%",
-    "uptimeDay": "1.68%",
-    "uptimeWeek": "1.86%",
+    "uptimeDay": "4.04%",
+    "uptimeWeek": "2.19%",
     "uptimeMonth": "14.57%",
     "uptimeYear": "92.88%",
     "time": 3197,
@@ -52,7 +52,7 @@
     "slug": "civitas-juzgado",
     "status": "up",
     "uptime": "96.91%",
-    "uptimeDay": "52.20%",
+    "uptimeDay": "54.56%",
     "uptimeWeek": "71.05%",
     "uptimeMonth": "88.73%",
     "uptimeYear": "96.03%",
@@ -125,7 +125,7 @@
     "slug": "civitas-rrhh",
     "status": "up",
     "uptime": "97.30%",
-    "uptimeDay": "52.20%",
+    "uptimeDay": "54.56%",
     "uptimeWeek": "71.07%",
     "uptimeMonth": "88.77%",
     "uptimeYear": "96.74%",
@@ -229,7 +229,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tubienestar.catamarcacapital.gob.ar.ico",
     "slug": "tu-bienestar",
     "status": "up",
-    "uptime": "71.71%",
+    "uptime": "71.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -673,7 +673,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-15": 1438,
+      "2024-01-16": 32,
+      "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
@@ -1036,8 +1037,7 @@
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
-      "2023-01-17": 1440,
-      "2023-01-16": 1440
+      "2023-01-17": 1440
     }
   },
   {
@@ -1046,7 +1046,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/beneficiarios.catamarcaciudad.gob.ar.ico",
     "slug": "empleo",
     "status": "up",
-    "uptime": "71.81%",
+    "uptime": "71.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1623,7 +1623,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "43.71%",
+    "uptimeYear": "43.72%",
     "time": 278,
     "timeDay": 349,
     "timeWeek": 320,
@@ -1834,8 +1834,7 @@
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
-      "2023-01-17": 1440,
-      "2023-01-16": 1440
+      "2023-01-17": 1440
     }
   },
   {
@@ -1902,7 +1901,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/educacion.catamarcaciudad.gob.ar.ico",
     "slug": "educacion",
     "status": "up",
-    "uptime": "87.79%",
+    "uptime": "87.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
