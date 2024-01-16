@@ -4,11 +4,11 @@
     "url": "https://www.catamarcaciudad.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.catamarcaciudad.gob.ar.ico",
     "slug": "catamarca-capital",
-    "status": "up",
+    "status": "down",
     "uptime": "96.23%",
-    "uptimeDay": "4.20%",
-    "uptimeWeek": "2.39%",
-    "uptimeMonth": "13.44%",
+    "uptimeDay": "4.63%",
+    "uptimeWeek": "2.45%",
+    "uptimeMonth": "13.48%",
     "uptimeYear": "92.79%",
     "time": 3202,
     "timeDay": 3613,
@@ -43,7 +43,7 @@
       "2023-12-23": 1386,
       "2023-12-22": 1269,
       "2023-12-21": 1329,
-      "2023-12-20": 852
+      "2023-12-20": 834
     }
   },
   {
@@ -53,7 +53,7 @@
     "slug": "civitas-juzgado",
     "status": "up",
     "uptime": "96.91%",
-    "uptimeDay": "96.93%",
+    "uptimeDay": "97.37%",
     "uptimeWeek": "71.05%",
     "uptimeMonth": "88.73%",
     "uptimeYear": "96.03%",
@@ -126,7 +126,7 @@
     "slug": "civitas-rrhh",
     "status": "up",
     "uptime": "97.30%",
-    "uptimeDay": "96.93%",
+    "uptimeDay": "97.37%",
     "uptimeWeek": "71.07%",
     "uptimeMonth": "88.77%",
     "uptimeYear": "96.74%",
@@ -674,7 +674,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-16": 642,
+      "2024-01-16": 649,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
