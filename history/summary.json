@@ -4,13 +4,13 @@
     "url": "https://www.catamarcaciudad.gob.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.catamarcaciudad.gob.ar.ico",
     "slug": "catamarca-capital",
-    "status": "up",
-    "uptime": "96.07%",
-    "uptimeDay": "2.62%",
-    "uptimeWeek": "2.52%",
-    "uptimeMonth": "9.78%",
-    "uptimeYear": "92.48%",
-    "time": 3202,
+    "status": "down",
+    "uptime": "96.09%",
+    "uptimeDay": "3.30%",
+    "uptimeWeek": "2.62%",
+    "uptimeMonth": "10.04%",
+    "uptimeYear": "92.50%",
+    "time": 3201,
     "timeDay": 3166,
     "timeWeek": 3138,
     "timeMonth": 3118,
@@ -44,7 +44,7 @@
       "2023-12-23": 1386,
       "2023-12-22": 1269,
       "2023-12-21": 1329,
-      "2023-12-20": 429
+      "2023-12-20": 317
     }
   },
   {
@@ -675,7 +675,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-17": 1271,
+      "2024-01-17": 1281,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
