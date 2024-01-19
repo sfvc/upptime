@@ -5,7 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: CatamarcaCapital
     url: https://www.catamarcaciudad.gob.ar
-    maxResponseTime: 5000
+    maxResponseTime: 50000
+    __dangerous__insecure: true
   - name: Civitas Juzgado
     url: http://civitas.catamarcaciudad.gob.ar:8080/JUZ_CATA/forms/login.jsp
   - name: Civitas RRHH
