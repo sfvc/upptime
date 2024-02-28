@@ -623,7 +623,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-28": 1304,
+      "2024-02-28": 1310,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -1359,19 +1359,19 @@
     "url": "http://juzgado.catamarcacapital.gob.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/juzgado.catamarcacapital.gob.ar.ico",
     "slug": "tramites-online-juzgado",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 330,
-    "timeWeek": 288,
+    "timeDay": 304,
+    "timeWeek": 286,
     "timeMonth": 268,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2024-02-28": 1
+      "2024-02-28": 5
     }
   },
   {
