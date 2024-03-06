@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.catamarcaciudad.gob.ar.ico",
     "slug": "catamarca-capital",
     "status": "up",
-    "uptime": "96.14%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "92.08%",
+    "uptime": "96.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "92.07%",
     "time": 3187,
     "timeDay": 3210,
     "timeWeek": 2916,
     "timeMonth": 3025,
     "timeYear": 3179,
     "dailyMinutesDown": {
-      "2024-03-06": 5,
       "2024-03-02": 16,
       "2024-03-01": 158,
       "2024-02-28": 21,
@@ -53,7 +52,7 @@
       "2023-12-30": 1420,
       "2023-12-29": 1440,
       "2023-12-28": 1416,
-      "2023-12-27": 902
+      "2023-12-27": 994
     }
   },
   {
@@ -211,10 +210,10 @@
     "url": "https://turnos.catamarcacapital.gob.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/turnos.catamarcacapital.gob.ar.ico",
     "slug": "turnero",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 365,
@@ -223,6 +222,7 @@
     "timeMonth": 285,
     "timeYear": 334,
     "dailyMinutesDown": {
+      "2024-03-06": 2,
       "2023-04-23": 39
     }
   },
@@ -231,9 +231,9 @@
     "url": "https://turnos.catamarcacapital.gob.ar/cel/",
     "icon": "https://icons.duckduckgo.com/ip3/turnos.catamarcacapital.gob.ar.ico",
     "slug": "turnero-cel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -243,6 +243,7 @@
     "timeMonth": 43,
     "timeYear": 53,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2023-04-23": 39
     }
   },
@@ -612,7 +613,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-06": 1229,
+      "2024-03-06": 1238,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
