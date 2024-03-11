@@ -65,7 +65,7 @@
     "uptime": "96.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.76%",
+    "uptimeMonth": "83.96%",
     "uptimeYear": "95.48%",
     "time": 942,
     "timeDay": 585,
@@ -142,7 +142,7 @@
     "uptime": "96.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.77%",
+    "uptimeMonth": "83.96%",
     "uptimeYear": "95.51%",
     "time": 263,
     "timeDay": 221,
@@ -220,7 +220,7 @@
     "time": 364,
     "timeDay": 474,
     "timeWeek": 314,
-    "timeMonth": 301,
+    "timeMonth": 296,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2024-03-06": 16,
@@ -241,7 +241,7 @@
     "time": 98,
     "timeDay": 91,
     "timeWeek": 2478,
-    "timeMonth": 672,
+    "timeMonth": 692,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2023-04-23": 39
@@ -257,11 +257,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.50%",
+    "uptimeYear": "58.52%",
     "time": 553,
     "timeDay": 179,
     "timeWeek": 571,
-    "timeMonth": 579,
+    "timeMonth": 585,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2023-08-09": 625,
@@ -413,8 +413,7 @@
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
-      "2023-03-13": 1440,
-      "2023-03-12": 1440
+      "2023-03-13": 1440
     }
   },
   {
@@ -427,11 +426,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.47%",
+    "uptimeYear": "58.49%",
     "time": 280,
     "timeDay": 224,
     "timeWeek": 275,
-    "timeMonth": 447,
+    "timeMonth": 460,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2023-09-13": 117,
@@ -584,8 +583,7 @@
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
-      "2023-03-13": 1440,
-      "2023-03-12": 1440
+      "2023-03-13": 1440
     }
   },
   {
@@ -605,7 +603,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-10": 1388,
+      "2024-03-11": 32,
+      "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
@@ -968,8 +967,7 @@
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
-      "2023-03-13": 1440,
-      "2023-03-12": 1440
+      "2023-03-13": 1440
     }
   },
   {
@@ -979,17 +977,18 @@
     "slug": "empleo",
     "status": "down",
     "uptime": "73.87%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "94.12%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "58.47%",
     "time": 354,
     "timeDay": 237,
     "timeWeek": 349,
-    "timeMonth": 405,
+    "timeMonth": 414,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2024-03-10": 1,
+      "2024-03-11": 32,
+      "2024-03-10": 53,
       "2023-09-13": 117,
       "2023-08-09": 655,
       "2023-08-08": 1440,
@@ -1140,8 +1139,7 @@
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
-      "2023-03-13": 1440,
-      "2023-03-12": 1440
+      "2023-03-13": 1440
     }
   },
   {
@@ -1154,11 +1152,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.48%",
+    "uptimeYear": "58.49%",
     "time": 268,
     "timeDay": 173,
     "timeWeek": 219,
-    "timeMonth": 256,
+    "timeMonth": 262,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2023-09-13": 117,
@@ -1311,8 +1309,7 @@
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
-      "2023-03-13": 1440,
-      "2023-03-12": 1440
+      "2023-03-13": 1440
     }
   },
   {
@@ -1329,7 +1326,7 @@
     "time": 236,
     "timeDay": 168,
     "timeWeek": 203,
-    "timeMonth": 258,
+    "timeMonth": 259,
     "timeYear": 238,
     "dailyMinutesDown": {}
   },
@@ -1347,7 +1344,7 @@
     "time": 807,
     "timeDay": 779,
     "timeWeek": 1468,
-    "timeMonth": 959,
+    "timeMonth": 968,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2024-03-01": 145,
@@ -1385,7 +1382,7 @@
     "time": 360,
     "timeDay": 165,
     "timeWeek": 247,
-    "timeMonth": 238,
+    "timeMonth": 232,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2023-07-25": 17
@@ -1405,7 +1402,7 @@
     "time": 277,
     "timeDay": 158,
     "timeWeek": 223,
-    "timeMonth": 201,
+    "timeMonth": 205,
     "timeYear": 240,
     "dailyMinutesDown": {}
   },
@@ -1423,7 +1420,7 @@
     "time": 833,
     "timeDay": 615,
     "timeWeek": 1712,
-    "timeMonth": 1637,
+    "timeMonth": 1671,
     "timeYear": 876,
     "dailyMinutesDown": {
       "2024-03-01": 151,
@@ -1449,15 +1446,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/transporte.catamarcacapital.gob.ar.ico",
     "slug": "transporte",
     "status": "up",
-    "uptime": "44.78%",
+    "uptime": "44.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.50%",
+    "uptimeYear": "58.51%",
     "time": 277,
     "timeDay": 61,
     "timeWeek": 257,
-    "timeMonth": 313,
+    "timeMonth": 303,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2023-08-09": 639,
@@ -1609,8 +1606,7 @@
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
-      "2023-03-13": 1440,
-      "2023-03-12": 1440
+      "2023-03-13": 1440
     }
   },
   {
@@ -1627,7 +1623,7 @@
     "time": 321,
     "timeDay": 249,
     "timeWeek": 138,
-    "timeMonth": 169,
+    "timeMonth": 167,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -1645,7 +1641,7 @@
     "time": 357,
     "timeDay": 168,
     "timeWeek": 257,
-    "timeMonth": 234,
+    "timeMonth": 237,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -1663,7 +1659,7 @@
     "time": 365,
     "timeDay": 57,
     "timeWeek": 254,
-    "timeMonth": 327,
+    "timeMonth": 334,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2023-09-13": 117,
@@ -1684,7 +1680,7 @@
     "time": 292,
     "timeDay": 159,
     "timeWeek": 198,
-    "timeMonth": 260,
+    "timeMonth": 255,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2023-09-13": 117,
@@ -1705,7 +1701,7 @@
     "time": 1609,
     "timeDay": 3834,
     "timeWeek": 1387,
-    "timeMonth": 1172,
+    "timeMonth": 1189,
     "timeYear": 1609,
     "dailyMinutesDown": {
       "2024-02-13": 201,
@@ -1731,7 +1727,7 @@
     "time": 209,
     "timeDay": 244,
     "timeWeek": 196,
-    "timeMonth": 185,
+    "timeMonth": 184,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2024-02-13": 201,
