@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.catamarcaciudad.gob.ar.ico",
     "slug": "catamarca-capital",
     "status": "up",
-    "uptime": "96.21%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "92.12%",
+    "uptime": "96.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "92.07%",
     "time": 3185,
     "timeDay": 3032,
     "timeWeek": 3036,
     "timeMonth": 3054,
     "timeYear": 3166,
     "dailyMinutesDown": {
-      "2024-03-17": 5,
       "2024-03-08": 60,
       "2024-03-02": 16,
       "2024-03-01": 158,
@@ -54,7 +53,7 @@
       "2023-12-30": 1420,
       "2023-12-29": 1440,
       "2023-12-28": 1416,
-      "2023-12-27": 632
+      "2023-12-27": 902
     }
   },
   {
@@ -140,7 +139,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/civitas.catamarcaciudad.gob.ar.ico",
     "slug": "civitas-rrhh",
     "status": "up",
-    "uptime": "96.79%",
+    "uptime": "96.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "95.11%",
@@ -254,11 +253,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tubienestar.catamarcacapital.gob.ar.ico",
     "slug": "tu-bienestar",
     "status": "up",
-    "uptime": "74.02%",
+    "uptime": "74.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.42%",
+    "uptimeYear": "60.44%",
     "time": 555,
     "timeDay": 208,
     "timeWeek": 688,
@@ -407,8 +406,7 @@
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
-      "2023-03-20": 1440,
-      "2023-03-19": 1440
+      "2023-03-20": 1440
     }
   },
   {
@@ -421,7 +419,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.39%",
+    "uptimeYear": "60.41%",
     "time": 281,
     "timeDay": 178,
     "timeWeek": 299,
@@ -571,8 +569,7 @@
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
-      "2023-03-20": 1440,
-      "2023-03-19": 1440
+      "2023-03-20": 1440
     }
   },
   {
@@ -592,7 +589,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-17": 1408,
+      "2024-03-18": 32,
+      "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
@@ -955,8 +953,7 @@
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
-      "2023-03-20": 1440,
-      "2023-03-19": 1440
+      "2023-03-20": 1440
     }
   },
   {
@@ -967,9 +964,9 @@
     "status": "up",
     "uptime": "74.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.23%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "60.38%",
+    "uptimeYear": "60.39%",
     "time": 356,
     "timeDay": 92,
     "timeWeek": 353,
@@ -1121,8 +1118,7 @@
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
-      "2023-03-20": 1440,
-      "2023-03-19": 1440
+      "2023-03-20": 1440
     }
   },
   {
@@ -1135,7 +1131,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.40%",
+    "uptimeYear": "60.41%",
     "time": 269,
     "timeDay": 94,
     "timeWeek": 302,
@@ -1285,8 +1281,7 @@
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
-      "2023-03-20": 1440,
-      "2023-03-19": 1440
+      "2023-03-20": 1440
     }
   },
   {
@@ -1422,11 +1417,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/transporte.catamarcacapital.gob.ar.ico",
     "slug": "transporte",
     "status": "up",
-    "uptime": "45.29%",
+    "uptime": "45.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.42%",
+    "uptimeYear": "60.43%",
     "time": 278,
     "timeDay": 76,
     "timeWeek": 330,
@@ -1575,8 +1570,7 @@
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
-      "2023-03-20": 1440,
-      "2023-03-19": 1440
+      "2023-03-20": 1440
     }
   },
   {
