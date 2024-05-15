@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.catamarcaciudad.gob.ar.ico",
     "slug": "catamarca-capital",
     "status": "up",
-    "uptime": "97.02%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "94.48%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "93.31%",
+    "uptime": "96.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.53%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "93.03%",
     "time": 3103,
     "timeDay": 3712,
     "timeWeek": 2830,
     "timeMonth": 2717,
     "timeYear": 3079,
     "dailyMinutesDown": {
-      "2024-05-15": 5,
       "2024-05-11": 552,
       "2024-05-08": 241,
       "2024-05-04": 19,
@@ -64,7 +63,8 @@
       "2024-01-05": 1419,
       "2024-01-04": 1418,
       "2024-01-03": 1415,
-      "2024-01-02": 63
+      "2024-01-02": 1434,
+      "2024-01-01": 96
     }
   },
   {
@@ -258,10 +258,10 @@
     "url": "https://turnos.catamarcacapital.gob.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/turnos.catamarcacapital.gob.ar.ico",
     "slug": "turnero",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 358,
@@ -270,6 +270,7 @@
     "timeMonth": 271,
     "timeYear": 304,
     "dailyMinutesDown": {
+      "2024-05-15": 1,
       "2024-03-06": 16
     }
   },
@@ -517,7 +518,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-15": 891,
+      "2024-05-15": 899,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -1001,7 +1002,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.46%",
+    "uptimeYear": "76.47%",
     "time": 262,
     "timeDay": 135,
     "timeWeek": 225,
@@ -1405,7 +1406,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/educacion.catamarcaciudad.gob.ar.ico",
     "slug": "educacion",
     "status": "up",
-    "uptime": "89.59%",
+    "uptime": "89.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
