@@ -1,7 +1,7 @@
 url: http://civitas.catamarcaciudad.gob.ar:8080/JUZ_CATA/forms/login.jsp
-status: down
-code: 404
-responseTime: 705
-lastUpdated: 2024-07-03T13:47:50.055Z
+status: up
+code: 200
+responseTime: 562
+lastUpdated: 2024-07-03T13:59:43.167Z
 startTime: 2022-02-17T16:23:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
