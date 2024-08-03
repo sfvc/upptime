@@ -1,7 +1,7 @@
 url: https://planestrategico.catamarcacapital.gob.ar
-status: up
-code: 200
-responseTime: 208
-lastUpdated: 2024-08-02T23:08:01.845Z
+status: down
+code: 500
+responseTime: 2168
+lastUpdated: 2024-08-03T10:29:49.620Z
 startTime: 2022-02-17T18:44:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
