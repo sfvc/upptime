@@ -379,7 +379,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 1226,
+      "2024-08-18": 1232,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
@@ -940,19 +940,19 @@
     "url": "https://transporte.catamarcacapital.gob.ar/login",
     "icon": "https://icons.duckduckgo.com/ip3/transporte.catamarcacapital.gob.ar.ico",
     "slug": "transporte",
-    "status": "up",
+    "status": "down",
     "uptime": "54.49%",
-    "uptimeDay": "78.49%",
-    "uptimeWeek": "96.93%",
+    "uptimeDay": "78.44%",
+    "uptimeWeek": "96.92%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.94%",
     "time": 284,
-    "timeDay": 227,
-    "timeWeek": 256,
-    "timeMonth": 269,
+    "timeDay": 239,
+    "timeWeek": 262,
+    "timeMonth": 271,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2024-08-18": 309
+      "2024-08-18": 310
     }
   },
   {
