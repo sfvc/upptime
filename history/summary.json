@@ -379,7 +379,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 300,
+      "2024-08-18": 329,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
@@ -752,7 +752,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/beneficiarios.catamarcaciudad.gob.ar.ico",
     "slug": "empleo",
     "status": "up",
-    "uptime": "78.45%",
+    "uptime": "78.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -940,19 +940,19 @@
     "url": "https://transporte.catamarcacapital.gob.ar/login",
     "icon": "https://icons.duckduckgo.com/ip3/transporte.catamarcacapital.gob.ar.ico",
     "slug": "transporte",
-    "status": "down",
+    "status": "up",
     "uptime": "54.48%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 143,
-    "timeWeek": 262,
-    "timeMonth": 274,
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 284,
+    "timeDay": 114,
+    "timeWeek": 236,
+    "timeMonth": 267,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2024-08-18": 1
+      "2024-08-18": 29
     }
   },
   {
