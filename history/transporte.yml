@@ -1,7 +1,7 @@
 url: https://transporte.catamarcacapital.gob.ar/login
-status: up
-code: 200
-responseTime: 255
-lastUpdated: 2024-08-18T15:54:00.261Z
+status: down
+code: 500
+responseTime: 104
+lastUpdated: 2024-08-18T16:18:30.084Z
 startTime: 2022-02-17T18:44:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
