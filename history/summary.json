@@ -367,19 +367,19 @@
     "url": "https://tubienestar.catamarcacapital.gob.ar/solicitudes",
     "icon": "https://icons.duckduckgo.com/ip3/tubienestar.catamarcacapital.gob.ar.ico",
     "slug": "tu-bienestar",
-    "status": "down",
+    "status": "up",
     "uptime": "81.80%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 387,
-    "timeWeek": 539,
-    "timeMonth": 550,
-    "timeYear": 543,
+    "time": 551,
+    "timeDay": 2058,
+    "timeWeek": 938,
+    "timeMonth": 650,
+    "timeYear": 552,
     "dailyMinutesDown": {
-      "2025-02-05": 8
+      "2025-02-05": 12
     }
   },
   {
@@ -387,19 +387,19 @@
     "url": "https://correcciondeplanos.catamarcaciudad.gob.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/correcciondeplanos.catamarcaciudad.gob.ar.ico",
     "slug": "planos",
-    "status": "down",
+    "status": "up",
     "uptime": "81.87%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 177,
-    "timeWeek": 338,
-    "timeMonth": 307,
-    "timeYear": 290,
+    "time": 292,
+    "timeDay": 1843,
+    "timeWeek": 734,
+    "timeMonth": 407,
+    "timeYear": 299,
     "dailyMinutesDown": {
-      "2025-02-05": 7
+      "2025-02-05": 11
     }
   },
   {
@@ -419,7 +419,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-02-05": 708,
+      "2025-02-05": 713,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
@@ -791,9 +791,9 @@
     "slug": "empleo",
     "status": "up",
     "uptime": "81.86%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 387,
     "timeDay": 5294,
@@ -801,7 +801,6 @@
     "timeMonth": 716,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2025-02-05": 6,
       "2024-03-11": 45,
       "2024-03-10": 53
     }
@@ -813,18 +812,16 @@
     "slug": "recibos",
     "status": "up",
     "uptime": "81.87%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
     "timeDay": 3546,
     "timeWeek": 1099,
     "timeMonth": 496,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2025-02-05": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Trámites online Juzgado",
@@ -854,14 +851,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.30%",
+    "uptimeYear": "66.29%",
     "time": 729,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2025-02-05": 708,
+      "2025-02-05": 713,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
