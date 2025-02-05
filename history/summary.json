@@ -367,19 +367,19 @@
     "url": "https://tubienestar.catamarcacapital.gob.ar/solicitudes",
     "icon": "https://icons.duckduckgo.com/ip3/tubienestar.catamarcacapital.gob.ar.ico",
     "slug": "tu-bienestar",
-    "status": "up",
+    "status": "down",
     "uptime": "81.80%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 551,
+    "time": 550,
     "timeDay": 2058,
     "timeWeek": 938,
     "timeMonth": 650,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2025-02-05": 12
+      "2025-02-05": 1
     }
   },
   {
@@ -389,18 +389,16 @@
     "slug": "planos",
     "status": "up",
     "uptime": "81.87%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
     "timeDay": 1843,
     "timeWeek": 734,
     "timeMonth": 407,
     "timeYear": 299,
-    "dailyMinutesDown": {
-      "2025-02-05": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Compras",
@@ -419,7 +417,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-02-05": 713,
+      "2025-02-05": 720,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
@@ -858,7 +856,7 @@
     "timeMonth": 0,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2025-02-05": 713,
+      "2025-02-05": 720,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
