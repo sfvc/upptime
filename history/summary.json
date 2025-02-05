@@ -369,9 +369,9 @@
     "slug": "tu-bienestar",
     "status": "down",
     "uptime": "81.80%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 544,
     "timeDay": 387,
@@ -379,7 +379,7 @@
     "timeMonth": 550,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2025-02-05": 3
+      "2025-02-05": 8
     }
   },
   {
@@ -389,9 +389,9 @@
     "slug": "planos",
     "status": "down",
     "uptime": "81.87%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 286,
     "timeDay": 177,
@@ -399,7 +399,7 @@
     "timeMonth": 307,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-02-05": 2
+      "2025-02-05": 7
     }
   },
   {
@@ -419,7 +419,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-02-05": 703,
+      "2025-02-05": 708,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
@@ -789,19 +789,19 @@
     "url": "https://beneficiarios.catamarcaciudad.gob.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/beneficiarios.catamarcaciudad.gob.ar.ico",
     "slug": "empleo",
-    "status": "down",
+    "status": "up",
     "uptime": "81.86%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
-    "time": 368,
-    "timeDay": 425,
-    "timeWeek": 349,
-    "timeMonth": 411,
-    "timeYear": 369,
+    "time": 387,
+    "timeDay": 5294,
+    "timeWeek": 1575,
+    "timeMonth": 716,
+    "timeYear": 395,
     "dailyMinutesDown": {
-      "2025-02-05": 2,
+      "2025-02-05": 6,
       "2024-03-11": 45,
       "2024-03-10": 53
     }
@@ -811,19 +811,19 @@
     "url": "https://recibos.catamarcaciudad.gob.ar/acceso.php",
     "icon": "https://icons.duckduckgo.com/ip3/recibos.catamarcaciudad.gob.ar.ico",
     "slug": "recibos",
-    "status": "down",
+    "status": "up",
     "uptime": "81.87%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 389,
-    "timeWeek": 298,
-    "timeMonth": 296,
-    "timeYear": 256,
+    "time": 268,
+    "timeDay": 3546,
+    "timeWeek": 1099,
+    "timeMonth": 496,
+    "timeYear": 273,
     "dailyMinutesDown": {
-      "2025-02-05": 1
+      "2025-02-05": 5
     }
   },
   {
@@ -861,7 +861,7 @@
     "timeMonth": 0,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2025-02-05": 704,
+      "2025-02-05": 708,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
