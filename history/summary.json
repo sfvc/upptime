@@ -72,9 +72,9 @@
     "slug": "civitas-juzgado",
     "status": "up",
     "uptime": "97.85%",
-    "uptimeDay": "74.12%",
-    "uptimeWeek": "96.30%",
-    "uptimeMonth": "94.78%",
+    "uptimeDay": "74.69%",
+    "uptimeWeek": "96.38%",
+    "uptimeMonth": "94.80%",
     "uptimeYear": "93.31%",
     "time": 1252,
     "timeDay": 4602,
@@ -82,7 +82,7 @@
     "timeMonth": 2673,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2025-03-29": 365,
+      "2025-03-29": 357,
       "2025-03-28": 5,
       "2025-03-10": 830,
       "2025-03-09": 1084,
@@ -172,7 +172,8 @@
       "2024-05-08": 230,
       "2024-05-07": 18,
       "2024-05-04": 779,
-      "2024-05-03": 330
+      "2024-05-03": 330,
+      "2024-04-17": 21
     }
   },
   {
@@ -180,9 +181,9 @@
     "url": "http://civitas.catamarcaciudad.gob.ar:8080/GRH_CATA/forms/login.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/civitas.catamarcaciudad.gob.ar.ico",
     "slug": "civitas-rrhh",
-    "status": "up",
-    "uptime": "97.20%",
-    "uptimeDay": "83.34%",
+    "status": "down",
+    "uptime": "97.27%",
+    "uptimeDay": "83.32%",
     "uptimeWeek": "97.62%",
     "uptimeMonth": "95.09%",
     "uptimeYear": "92.50%",
@@ -347,7 +348,7 @@
     "timeMonth": 0,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-03-29": 1360,
+      "2025-03-29": 1367,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -440,7 +441,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-03-29": 1360,
+      "2025-03-29": 1367,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -884,7 +885,7 @@
     "timeMonth": 0,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-03-29": 1360,
+      "2025-03-29": 1367,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1179,7 +1180,7 @@
     "timeMonth": 0,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2025-03-29": 1360,
+      "2025-03-29": 1367,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1326,7 +1327,7 @@
     "timeMonth": 0,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-03-29": 1360,
+      "2025-03-29": 1367,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
