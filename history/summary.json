@@ -65,10 +65,10 @@
     "url": "http://civitas.catamarcaciudad.gob.ar:8080/JUZ_CATA/forms/login.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/civitas.catamarcaciudad.gob.ar.ico",
     "slug": "civitas-juzgado",
-    "status": "up",
+    "status": "down",
     "uptime": "98.11%",
-    "uptimeDay": "91.44%",
-    "uptimeWeek": "98.78%",
+    "uptimeDay": "91.40%",
+    "uptimeWeek": "98.77%",
     "uptimeMonth": "97.09%",
     "uptimeYear": "93.99%",
     "time": 1465,
@@ -77,7 +77,7 @@
     "timeMonth": 3945,
     "timeYear": 1485,
     "dailyMinutesDown": {
-      "2025-04-22": 104,
+      "2025-04-22": 105,
       "2025-04-21": 20,
       "2025-03-31": 450,
       "2025-03-30": 339,
@@ -153,8 +153,7 @@
       "2024-08-05": 21,
       "2024-07-30": 17,
       "2024-07-24": 30,
-      "2024-07-22": 25,
-      "2024-07-17": 20
+      "2024-07-22": 25
     }
   },
   {
@@ -330,7 +329,7 @@
     "timeMonth": 0,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2025-04-22": 448,
+      "2025-04-22": 458,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -447,7 +446,7 @@
     "timeMonth": 0,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-04-22": 448,
+      "2025-04-22": 458,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -893,7 +892,7 @@
     "timeMonth": 0,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2025-04-22": 448,
+      "2025-04-22": 458,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -1204,14 +1203,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.94%",
+    "uptimeYear": "78.93%",
     "time": 285,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-04-22": 449,
+      "2025-04-22": 458,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -1387,7 +1386,7 @@
     "timeMonth": 0,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-04-22": 449,
+      "2025-04-22": 459,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
