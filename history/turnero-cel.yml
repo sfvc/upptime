@@ -1,7 +1,7 @@
 url: https://turnos.catamarcacapital.gob.ar/cel/
-status: down
-code: 503
-responseTime: 991
-lastUpdated: 2025-05-13T15:59:14.929Z
+status: up
+code: 200
+responseTime: 79
+lastUpdated: 2025-05-13T16:19:37.985Z
 startTime: 2022-02-17T16:23:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
