@@ -1,7 +1,7 @@
 url: https://tudecision.catamarcacapital.gob.ar
-status: up
-code: 200
-responseTime: 203
-lastUpdated: 2025-06-07T23:10:11.973Z
+status: down
+code: 500
+responseTime: 3158
+lastUpdated: 2025-06-08T07:29:59.832Z
 startTime: 2022-02-17T16:23:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
